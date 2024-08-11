@@ -1,6 +1,6 @@
-## Introduction
+### Introduction
 
-### R-Impact is an iOS app I created with 3 teammates for the Everyone Can Code iOS App Development Program. The idea for the app started with my interest in building an app focused on recycling clothing and promoting eco-friendly alternatives to simply discarding clothing as a way to combat the overconsumption of fast-fashion. Our app was voted top four amongst 20+ teams throughout Chicago allowing us to showcase the app at the Apple Store in Chicago with the mayor in attendance. 
+#### R-Impact is an iOS app I created with 3 teammates for the Everyone Can Code iOS App Development Program. The idea for the app started with my interest in building an app focused on recycling clothing and promoting eco-friendly alternatives to simply discarding clothing as a way to combat the overconsumption of fast-fashion. Our app was voted top four amongst 20+ teams throughout Chicago allowing us to showcase the app at the Apple Store in Chicago with the mayor in attendance. 
 
 ### Presentation slides: https://www.eccchicago.org/uploads/1/1/8/4/118490758/r-impact.pdf
 ### Demo: https://youtu.be/5fgZ6G7E7iw
